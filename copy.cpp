@@ -4,7 +4,7 @@
 //  Date assigned: 9/18/18
 //	  Date due:10/2/18
 // Date handed in: 10/2/18
-//         Remark: Simple utility program: copies the contents of a source file to a target file
+//         Remark: Simple utility program: copies the contents of a source file named source.txt to a target file
 // Objectives: to learn UNIX system calls open(), create(), read(), write(), and exit()
 // **********************************************
 // * To compile: g++ copy.cpp                   *
