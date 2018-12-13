@@ -7,7 +7,7 @@
 //         Remark: Simple utility program: copies the contents of a source file named source.txt to a target file
 // Objectives: to learn UNIX system calls open(), create(), read(), write(), and exit()
 // **********************************************
-// * To compile: g++ copy.cpp                   *
+// * To compile: g++ CopySource.cpp                   *
 // *     To run: copy <sourceFile> <targetFile> *
 // **********************************************
 
